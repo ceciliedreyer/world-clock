@@ -41,7 +41,7 @@ select {
   font-size: 44px;
 }
 
-.time .am {
+.time small {
   font-size: 18px;
   vertical-align: middle;
 }
